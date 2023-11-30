@@ -1,5 +1,4 @@
-# Readme-Doc2
-<h1 align="center"><b>Welcome to the presentation of your name app. </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Welcome to the presentation of your flash-cards app. </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!-- Info-->
 <p align="center">
  
@@ -16,9 +15,9 @@
 <br>
 
 <h4>
-Well, starting with the description of the app, we have a Pomodoro application with three different options, which is the Pomodoro working time, a short break, which is a small time of 5 minutes to take a break within the Pomodoro time, which is 25 minutes, and we have the long break, which is the longest time of 15 minutes. 
+Well, starting with the description of the app, we have a Flash Cards different options, which is the Pomodoro working time, a short break, which is a small time of 5 minutes to take a break within the Pomodoro time, which is 25 minutes, and we have the long break, which is the longest time of 15 minutes. 
 <br><br>
-Well, for the project we used JavaScript. We also used components like Header and timer programmatically to make the clock theme and buttons work. We also imported Todo from React-Native in most of the functions of the application. 
+Well, for the project we used JavaScript. We also used components like Header and timer programmatically to make the clock theme and buttons work. We also imported Todo from React-Native in most of the functions of the application and Using FIREBASE
 
 <br><br>
 <br><br><br>
