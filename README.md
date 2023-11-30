@@ -22,9 +22,9 @@ Well, for the project we used JavaScript. We also used components like Header an
 
 <br><br>
 <br><br><br>
-<img src="https://github.com/JeffersonHidalgo/Readme-Doc2/blob/main/25%20mnt.jpeg?raw=true" width="200" height="340" style="float: left;">
-<img src="https://github.com/JeffersonHidalgo/Readme-Doc2/blob/main/5%20mnt.jpeg?raw=true" width="200" height="340" style="float: left;">
-<img src="https://github.com/JeffersonHidalgo/Readme-Doc2/blob/main/15%20mnt.jpeg?raw=true" width="200" height="340" style="float: right;">
+<img src="" width="200" height="340" style="float: left;">
+<img src="" width="200" height="340" style="float: left;">
+<img src="" width="200" height="340" style="float: right;">
 
 
 <br><br>
