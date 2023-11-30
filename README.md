@@ -21,9 +21,8 @@ Well, for the project we used JavaScript. We also used components like Header an
 
 <br><br>
 <br><br><br>
-<img src="" width="200" height="340" style="float: left;">
-<img src="" width="200" height="340" style="float: left;">
-<img src="" width="200" height="340" style="float: right;">
+<img src="https://raw.githubusercontent.com/JeffersonHidalgo/Readme-Doc2/main/card1.jpeg" width="200" height="340" style="float: left;">
+
 
 
 <br><br>
@@ -64,10 +63,6 @@ Well, for the project we used JavaScript. We also used components like Header an
 
 <br>
 
-- **Extras**:
-
-    ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
-    
 
 - **Created by**:
 
